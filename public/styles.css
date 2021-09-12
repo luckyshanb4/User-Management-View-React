@@ -26,38 +26,44 @@ header {
   .profile{
     background-color: rgb(127, 187, 255);
     color: blue;
+    margin-top: 1px;
+    text-align: left;
   }
 
   .photo{
     display: inline-block;
-    margin:0 5%;
-    text-align: center;
-    width: 100px;
+    /* margin:auto 5%; */
+    margin-left: 15%;
+    text-align: left;
+   
+    
     
 
   }
 
   .name{
     display: inline-block;
-    margin:0 5%;
-    text-align: center;
+    margin:auto 5%;
+    text-align: left;
+    width: 150px;
+   
   }
 
   .dateCreated{
     display: inline-block;
-    margin:0 5%;
-    text-align: center;
+    margin:auto 5%;
+    text-align: left;
   }
 
   .role{
     display: inline-block;
-    margin:0 5%;
-    text-align: center;
+    margin:auto 5%;
+    text-align: left;
   }
 
   .status{
     display: inline-block;
-    margin:0 5%;
-    text-align: center;
+    margin:auto 5%;
+    text-align: left;
   }
   
